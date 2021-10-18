@@ -2,7 +2,7 @@
 
 # Xavier Render
 
-I'm Xavier from Australia, and I am a student studying Computer Science. I really enjoy learning languages and frameworks like React and Node. 
+I'm Xavier from Australia, I really enjoy learning languages and frameworks like React and Node. 
 
 ## Skills and Experience 
 - ⚛    React
