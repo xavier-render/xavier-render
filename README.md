@@ -1,11 +1,11 @@
 ![](programming.gif)
 
-# Xavier Render
+# PALASONIC
 
-I'm Xavier from Australia, I really enjoy learning languages and frameworks like React and Node. 
+I'm PALASONIC from Australia, I really enjoy learning languages and frameworks
 
 ## Skills and Experience 
-- ⚛    React
+- ⚛     React
 - 💻    HTML, CSS, JS
 
 
