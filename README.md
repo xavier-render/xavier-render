@@ -2,4 +2,4 @@
 
 # Xavier Render
 
-Currently learning Web Devolpment (HTML, CSS, and, JavaScript)
+Currently learning Web Devolpment (HTML, CSS, and JavaScript)
